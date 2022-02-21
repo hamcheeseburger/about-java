@@ -13,4 +13,8 @@ public class Merge {
     public void rebase() {
 
     }
+
+    public void rebase(int a) {
+
+    }
 }
