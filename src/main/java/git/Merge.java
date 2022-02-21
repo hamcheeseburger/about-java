@@ -9,4 +9,8 @@ public class Merge {
     public void merge() {
 
     }
+
+    public void rebase() {
+
+    }
 }
